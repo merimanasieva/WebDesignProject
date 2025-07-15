@@ -1,1 +1,1 @@
-Web Design exercise for midterm
+Web Design exercise for second midterm
